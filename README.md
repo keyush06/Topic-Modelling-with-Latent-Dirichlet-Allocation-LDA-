@@ -10,5 +10,7 @@
  5) Proportion of documents by the top 6 dominant topics.
  6) Interactive visualization
 
+###### For conceptual understanding : https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
  
 ![image](https://user-images.githubusercontent.com/52730843/200168759-37379ce0-6936-4727-a6b4-703d0d224ad3.png)
